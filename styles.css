@@ -185,16 +185,22 @@ body{
     border-radius: 5%;
     margin: 20px;
   }
- #foot {
+#foot {
     display: flex;
     position: relative;
     text-align: center;
-    transform: translateX(500px);
+    align-items: center;
   }
   
   #foot li {
     list-style: none;
+    margin-left: 15%;
   }
+  
+  
+  
+
+ 
   
   #foot li a {
     width: 80px;
